@@ -1,0 +1,19 @@
+.list-group-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid gray;
+  padding: 5px;
+  margin: 6px;
+  border-radius: 9px;
+}
+
+.tittle-todo {
+  margin: 10px;
+  font-size: 18px;
+}
+
+.button {
+  margin: 5px;
+}

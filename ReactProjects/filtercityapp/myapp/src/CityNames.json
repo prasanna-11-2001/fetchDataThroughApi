@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "city": "Visakhapatnam"
+    },
+    {
+        "id": 2,
+        "city": "Vijayawada"
+    },
+    {
+        "id": 3,
+        "city": "Guntur"
+    },
+    {
+        "id": 4,
+        "city": "Nellore"
+    },
+    {
+        "id": 5,
+        "city": "Kurnool"
+    },
+    {
+        "id": 6,
+        "city": "Rajahmundry"
+    },
+    {
+        "id": 7,
+        "city": "Tirupati"
+    },
+    {
+        "id": 8,
+        "city": "Kakinada"
+    },
+    {
+        "id": 9,
+        "city": "Kadapa"
+    },
+    {
+        "id": 10,
+        "city": "Anantapur"
+    },
+    {
+        "id": 11,
+        "city": "Vizianagaram"
+    },
+    {
+        "id": 12,
+        "city": "Eluru"
+    },
+    {
+        "id": 13,
+        "city": "Ongole"
+    },
+    {
+        "id": 14,
+        "city": "Nandyal"
+    },
+    {
+        "id": 15,
+        "city": "Machilipatnam"
+    },
+    {
+        "id": 16,
+        "city": "Adoni"
+    },
+    {
+        "id": 17,
+        "city": "Tenali"
+    },
+    {
+        "id": 18,
+        "city": "Proddatur"
+    },
+    {
+        "id": 19,
+        "city": "Chittoor"
+    },
+    {
+        "id": 20,
+        "city": "Hindupur"
+    }
+]
